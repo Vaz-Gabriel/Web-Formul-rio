@@ -6,6 +6,7 @@ Funcionalidades
 📁 Estrutura do Projeto
 
 formulario-web/
+
 ├── index.html        # Arquivo principal com o formulário
 
 ├── style.css         # Arquivo de estilos CSS (opcional, se separado)
