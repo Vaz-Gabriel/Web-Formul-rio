@@ -49,6 +49,7 @@ formulario-web/
 4. Abrirá o arquivo `formulario.html` no navegador.
 
 
+
 ## 📌 Campos do Formulário
 
 ✅Nome: Insira seu nome completo.
@@ -62,6 +63,7 @@ formulario-web/
 ✅Setor de Contato: Selecione uma opção no menu suspenso (ex.: "Selecione uma opção").
 
 
+
 ## 📌 Possíveis Melhorias Futuras
 
 ✅Validação de Formulário: Adicionar JavaScript para validar campos (ex.: e-mail no formato correto).
@@ -73,6 +75,7 @@ formulario-web/
 ✅Envio de Dados: Adicionar um botão "Enviar" com ação para enviar os dados por e-mail ou API.
 
 ✅Responsividade: Ajustar o layout para funcionar bem em dispositivos móveis.
+
 
 
 ## 👨‍💻 Desenvolvedor
