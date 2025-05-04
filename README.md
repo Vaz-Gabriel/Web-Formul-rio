@@ -13,13 +13,13 @@ formulario-web/
 
 ## 🚀 Funcionalidades
 
-✅ Coleta de dados pessoais: Nome e e-mail.
+- ✅ Coleta de dados pessoais: Nome e e-mail.
 
-✅ Seleção de opções: Tipo de ave (periquito ou calopsita) e gosto por natureza (sim/não).
+- ✅ Seleção de opções: Tipo de ave (periquito ou calopsita) e gosto por natureza (sim/não).
 
-✅ Escolha de método de contato via menu suspenso.
+- ✅ Escolha de método de contato via menu suspenso.
 
-✅Mensagem inicial para incentivar contato.
+- ✅Mensagem inicial para incentivar contato.
 
 ## 🎨 Tecnologias Utilizadas
 
@@ -52,29 +52,29 @@ formulario-web/
 
 ## 📌 Campos do Formulário
 
-✅Nome: Insira seu nome completo.
+- Nome: Insira seu nome completo.
 
-✅E-mail: Forneça um endereço de e-mail válido.
+- E-mail: Forneça um endereço de e-mail válido.
 
-✅Tipo de Ave: Selecione entre "Periquito" ou "Calopsita" usando os botões de opção.
+- Tipo de Ave: Selecione entre "Periquito" ou "Calopsita" usando os botões de opção.
 
-✅Gosta da Natureza?: Escolha "Sim" ou "Não" com os botões de rádio.
+- Gosta da Natureza?: Escolha "Sim" ou "Não" com os botões de rádio.
 
-✅Setor de Contato: Selecione uma opção no menu suspenso (ex.: "Selecione uma opção").
+- Setor de Contato: Selecione uma opção no menu suspenso (ex.: "Selecione uma opção").
 
 
 
 ## 📌 Possíveis Melhorias Futuras
 
-✅Validação de Formulário: Adicionar JavaScript para validar campos (ex.: e-mail no formato correto).
+- Validação de Formulário: Adicionar JavaScript para validar campos (ex.: e-mail no formato correto).
 
-✅Estilização Avançada: Integrar CSS mais elaborado (ex.: gradientes, sombras) ou usar frameworks como Bootstrap.
+- Estilização Avançada: Integrar CSS mais elaborado (ex.: gradientes, sombras) ou usar frameworks como Bootstrap.
 
-✅Backend: Configurar um servidor com Node.js e Express para processar e salvar os dados (ex.: em um arquivo JSON ou banco de dados).
+- Backend: Configurar um servidor com Node.js e Express para processar e salvar os dados (ex.: em um arquivo JSON ou banco de dados).
 
-✅Envio de Dados: Adicionar um botão "Enviar" com ação para enviar os dados por e-mail ou API.
+- Envio de Dados: Adicionar um botão "Enviar" com ação para enviar os dados por e-mail ou API.
 
-✅Responsividade: Ajustar o layout para funcionar bem em dispositivos móveis.
+- Responsividade: Ajustar o layout para funcionar bem em dispositivos móveis.
 
 
 
