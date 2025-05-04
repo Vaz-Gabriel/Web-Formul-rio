@@ -7,8 +7,7 @@ Este é um projeto de formulário web básico, desenvolvido como um ponto de par
 
 ```
 formulario-web/
-├── index.html        # Arquivo principal com o formulário
-├── style.css         # Arquivo de estilos CSS (opcional, se separado)
+├── formulario.html   # Arquivo principal com o formulário
 └── README.md         # Documentação do projeto
 ```
 
@@ -31,19 +30,19 @@ formulario-web/
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/Vaz-Gabriel/Web-Formul-rio.git
+   https://github.com/Vaz-Gabriel/Web-Formulario.git
    ```
    
    
 2. Navegue até a pasta do projeto
    ```bash
-   cd Web-Formul-rio
+   cd Web-Formulario
    ```
   
 
 3. Execute o comando
    ```bash
-   start formulário.html
+   start formulario.html
    ```
      
 
